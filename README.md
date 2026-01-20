@@ -26,7 +26,7 @@ Used for fetching:
 - Chart data
   
 ## Live Preview
-[CryptoPlace](https://cryptoplace01.netlify.app/)
+[🌐CryptoPlace](https://cryptoplace01.netlify.app/)
 
 ## Getting Started
 
