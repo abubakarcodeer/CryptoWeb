@@ -24,7 +24,9 @@ Used for fetching:
 - Live crypto prices
 - Market data
 - Chart data
-
+  
+## Live Preview
+[CryptoPlace](https://cryptoplace01.netlify.app/)
 
 ## Getting Started
 
